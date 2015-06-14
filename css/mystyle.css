@@ -1,0 +1,308 @@
+body {
+    margin:0;
+    padding:0;
+}
+header {
+    background-color:grey;
+    height:45px;
+    line-height:45px;
+}
+header .navigation {
+    margin-top:0px;
+    margin-left: 484px;
+}
+header li {
+    color: white;
+    display: inline;
+    padding: 0px 16px;
+    font-size: 13px;
+}
+#introduce {
+    height:357px;
+}
+#introduce .photo {
+    height: 255px;
+    width: 255px;
+    margin-left: 177px;
+    border-radius: 50%;
+    float:left;
+}
+#introduce .word {
+    margin-top:113px;
+    margin-left: 516px;
+    height: 167px;
+    width: 563px;
+    font-size:21px;
+}
+#introduce .buttom {
+    background-color: #5bb0d5;
+    height: 64px;
+    width: 301px;
+    border-radius: 5px;
+    line-height:64px;
+    font-size:20px;
+    margin-left:518px;
+    margin-top:13px;
+    color:white;
+}
+#major {
+    height:695px;
+    background-color:#f5f5f5;
+}
+#major .describe_1 {
+    padding-top: 100px;
+    height: 39px;
+    line-height: 39px;
+    font-size:33px;
+}
+#major .describe_2 {
+    margin-top: 5px;
+    height: 39px;
+    line-height: 39px;
+    font-size:17px;
+}
+#major .list {
+    height: 285px;
+    margin-top: 21px;
+    margin-left: 102px;
+}
+#major li i {
+    margin-top: 31px;
+    display: inline-block;
+    margin-left: 122px;
+    color:#E88B95;
+}
+#list {
+    margin-top: 10px;
+    display: inline-block;
+    height: 256px;
+    margin-left: 35px;
+    width: 299px;
+    background-color:white;
+}
+#major .word_1 {
+    height: 30px;
+    width: 188px;
+    margin-top: 27px;
+    margin-left: 67px;
+    font-size:22px;
+}
+#major .word_2 {
+    height: 73px;
+    width: 280px;
+    font-size: 17px;
+    margin-left: 29px;
+    color:grey;
+}
+#major .describe_3 {
+    height: 31px;
+    line-height: 31px;
+    margin-left: 62px;
+    font-size: 20px;
+}
+#major .buttom {
+    background-color:#5bb0d5;
+    height: 62px;
+    width: 360px;
+    border-radius: 5px;
+    line-height: 62px;
+    font-size: 23px;
+    margin-left: 485px;
+    margin-top: 27px;
+    color: white;
+}
+#work {
+    height:1198px;
+    background-color:#f0f0f0;;
+}
+#work .word_1 {
+    padding-top: 96px;
+    height: 30px;
+    width: 482px;
+    margin-left: 427px;
+    font-size:32px;
+}
+#work .word_2 {
+    margin-top: 22px;
+    height: 23px;
+    width: 838px;
+    margin-left: 240px;
+    font-size: 18px;
+    color:grey;
+}
+#work .list {
+    height: 689px;
+    margin-top: 61px;
+    margin-left: 117px;
+}
+#detail {
+    margin-top: 6px;
+    display: inline-block;
+    height: 324px;
+    width: 299px;
+    margin: 17px 18px;
+    background-color: white;
+}
+#work .photo {
+    height: 213px;
+    width: 300px;
+}
+#work .describe_1 {
+    height: 34px;
+    width: 180px;
+    margin-top: 18px;
+    margin-left: 74px;
+    font-size: 26px;
+}
+#work .describe_2 {
+    height: 34px;
+    width: 300px;
+    color: grey;
+    margin-top: 2px;
+    margin-left: 54px;
+    font-size: 14px;
+}
+#work .word_3{
+    margin-top: 60px;
+    height: 25px;
+    margin-left: 463px;
+    width: 410px;
+    font-size: 18px;
+    color: grey;
+}
+#work .buttom{
+    background-color: #5bb0d5;
+    height: 62px;
+    width: 292px;
+    border-radius: 5px;
+    line-height: 64px;
+    font-size: 23px;
+    margin-left: 520px;
+    margin-top: 28px;
+    color: white;
+}
+#touch {
+    height:1300px;
+    background-color:#303030;
+}
+#touch .word_1{
+    padding-top: 100px;
+    margin-left: 466px;
+    height: 30px;
+    width: 400px;
+    color:white;
+    font-size:30px;
+}
+#touch .word_2{
+    margin-top: 19px;
+    margin-left: 406px;
+    height: 30px;
+    width: 515px;
+    color: grey;
+    font-size: 18px;
+}
+#touch .form {
+    height: 506px;
+    width: 603px;
+    margin-left: 359px;
+    margin-top: 56px;
+}
+#touch .name {
+    height: 42px;
+    width: 287px;
+    display: inline-block;
+    margin-left: 12px;
+    line-height: 42px;
+}
+#touch .subject {
+    height: 42px;
+    width: 592px;
+    line-height: 42px;
+    margin-top:22px;
+    margin-left:12px;
+}
+#touch .message {
+    height: 191px;
+    width: 592px;
+    line-height: 42px;
+    margin-top: 20px;
+    margin-left: 12px;
+}
+#touch .info {
+    color: grey;
+    background-color: #282828;
+    border-radius: 5px;
+}
+#touch .buttom {
+    height: 50px;
+    width: 163px;
+    float: left;
+    line-height: 50px;
+    display: inline-block;
+    margin-top: 47px;
+    margin-left: 145px;
+    background-color: #5bb0d5;
+    border-radius: 5px;
+    color: white;
+}
+#touch .reset {
+    height: 50px;
+    width: 145px;
+    line-height:50px;
+    float: right;
+    margin-right: 132px;
+    margin-top: 45px;
+    background-color: #282828;
+    border-radius: 5px;
+    color: white;
+}
+#touch .line {
+    height: 10px;
+    width: 592px;
+    margin-left: 370px;
+}
+#touch .line_1 {
+    margin-top: -31px;
+}
+#touch .line_2 {
+    margin-top: 58px;
+}
+#touch .find {
+    margin-top: 79px;
+    height: 30px;
+    font-size: 22px;
+    width: 124px;
+    color: white;
+    margin-left: 623px;
+}
+#touch .list {
+    height: 37px;
+    width: 315px;
+    margin-top: 12px;
+    margin-left: 486px;
+}
+#touch .detail {
+    height: 35px;
+    width: 35px;
+    margin-left: 6px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color:#363636;
+}
+#touch li i {
+    margin-left: 3px;
+    color: #242323;
+    margin-top: 3px;
+}
+#touch .copy {
+    height: 30px;
+    width: 400px;
+    color: grey;
+    margin-left: 496px;
+    margin-top: 31px;
+}
+#touch .blank {
+    height:55px;
+    margin-top:115px;
+    background-color:white;
+}
